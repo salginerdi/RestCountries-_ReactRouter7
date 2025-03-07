@@ -1,4 +1,8 @@
 REST Countries Explorer
+
+İncelemek için: https://rest-countries-react-router7.vercel.app/
+To preview: https://rest-countries-react-router7.vercel.app/
+
 🇹🇷 Türkçe
 📋 Proje Hakkında
 Bu proje, REST Countries API kullanarak ülkeler hakkında kapsamlı bilgiler sunan responsive bir web uygulamasıdır. React Router v7 ve Tailwind CSS teknolojileri kullanılarak geliştirilmiştir.
@@ -11,7 +15,7 @@ Tailwind CSS
 REST Countries API
 
 🛠️ Kurulum
-bashCopygit clone https://github.com/[KULLANICI-ADINIZ]/RRV7.git
+bashCopygit clone https://github.com/[KULLANICI-ADINIZ]/RestCountries-_ReactRouter7.git
 cd rest-countries-explorer
 npm install
 npm start
@@ -34,7 +38,7 @@ Tailwind CSS
 REST Countries API
 
 🛠️ Installation
-bashCopygit clone https://github.com/[YOUR-USERNAME]/RRV7.git
+bashCopygit clone https://github.com/[YOUR-USERNAME]/RestCountries-_ReactRouter7.git
 cd rest-countries-explorer
 npm install
 npm start
