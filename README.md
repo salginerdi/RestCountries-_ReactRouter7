@@ -1,6 +1,7 @@
 REST Countries Explorer
 
 İncelemek için: https://rest-countries-react-router7.vercel.app/
+/
 To preview: https://rest-countries-react-router7.vercel.app/
 
 🇹🇷 Türkçe
